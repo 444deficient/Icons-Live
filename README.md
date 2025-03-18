@@ -1,4 +1,4 @@
-![Cider Live! Text](/Icons PNGs/Cider Live Text.png)
+(Icons PNGs/Cider Live Text.png)
 
 # Icons Live! Series
 Icons Live! is a small series of icons made in the V-Tuber style that went popular on Twitter/X a few months back. This is the repository where I keep them all.
